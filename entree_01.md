@@ -9,4 +9,5 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 
+J'ai choisis le programme TIM entre autre parceque, comme beaucoup d'autres, je m'intéresse qu domaine du jeux vidéo. J'ai un projet du création encore en phase d'élaboration avec un de mes amis et c'est ce qui m'a poussé à des faire des études supplémentaires. Par contre, ce programme n'était pas mon premier choix. Mais bien que, au départ, j'inclinai plutôt vers l'informatique, j'ai immédiatement changé d'idée en entendant parler du multimédia. J'ai une source d'intérèt dans chaquns des cours du programme :
 
